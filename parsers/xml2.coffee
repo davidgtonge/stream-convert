@@ -94,6 +94,7 @@ class exports.Parser extends Stream
 
       # need a place to store the node name
       obj["#name"] = node.name
+      obj[attrkey]["#name"] = node.name
       stack.push obj
 
     @saxParser.on "closetag", =>

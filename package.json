@@ -1,0 +1,27 @@
+{
+  "name": "stream-convert",
+  "version": "1.0.0",
+  "description": "This file was created by IntelliJ IDEA 11.1.3 for binding GitHub repository",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgtonge/stream-convert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgtonge/stream-convert/issues"
+  },
+  "homepage": "https://github.com/davidgtonge/stream-convert#readme",
+  "dependencies": {
+    "JSONStream": "^1.2.1",
+    "coffee-script": "^1.11.1",
+    "optimist": "^0.6.1",
+    "sax": "^1.2.1",
+    "underscore": "^1.8.3",
+    "xml": "^1.0.1"
+  }
+}
